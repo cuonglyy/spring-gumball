@@ -35,7 +35,7 @@ public class GumballMachine {
 	}
  
 	void releaseBall() {
-		System.out.println("A gumball comes rolling out the slot...");
+		System.out.println("A gumball comes rolling out the slot....");
 	}
  
 	void refill(int count) {
